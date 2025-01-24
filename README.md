@@ -116,4 +116,3 @@ The model expects images resized to 180x180 pixels.
 Happy coding! 🎉
 
 
-This `README.md` file provides an overview, setup instructions, usage details, and API documentation for your project. Let me know if you need further customization!
